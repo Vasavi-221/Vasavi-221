@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vasavi-Veeranki/Vasavi-Veeranki/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Vasavi-Veeranki/Vasavi-Veeranki/main/banner.jpg" alt="Banner" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 <!-- Student Cartoon Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vasavi-Veeranki/Vasavi-Veeranki/main/student.png" alt="Coding Cartoon" width="400"/>
+  <img src="https://raw.githubusercontent.com/Vasavi-Veeranki/Vasavi-Veeranki/main/banner.jpg" alt="Coding Cartoon" width="400"/>
 </p>
 
 ---
