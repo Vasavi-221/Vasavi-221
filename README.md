@@ -11,10 +11,6 @@
 
 ---
 
-<!-- Student Cartoon Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vasavi-221/Vasavi-221/main/banner.jpg" alt="Banner"/>
-</p>
 
 
 ---
