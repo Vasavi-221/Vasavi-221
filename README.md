@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Vasavi-221/Vasavi-221/blob/main/banner.png" alt="Banner" height="200"/>
+  <img src="https://github.com/Vasavi-221/Vasavi-221/blob/main/banner.png" alt="Banner" height="200" width="300"/>
 </p>
 
 
