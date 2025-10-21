@@ -17,11 +17,11 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
-  <a href="https://dribbble.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/dribbble.png"/></a>
+  <a href="https://x.com/vasavi1876" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/vasavi-veeranki-041687374/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  
+  <a href="https://www.instagram.com/vas_av_i18_76/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+ 
 </p>
 
 ---
@@ -33,10 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+   
 </p>
 
 ---
