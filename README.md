@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasavi-Veeranki&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasavi-Veeranki&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasavi-221&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasavi-221&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
