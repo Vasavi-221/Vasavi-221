@@ -1,20 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vasavi-221/Vasavi-221/main/banner.jpg" alt="Banner"/>
+  <img src="https://github.com/Vasavi-221/Vasavi-221/blob/main/banner.png" alt="Banner"/>
 </p>
 
 
 ---
 
 # Hi 👋, I'm Veeranki Vasavi  
-⚡ CSE Student ⚡ | 🌱 Cyber Security & Programming Enthusiast | 💻 Developer  
-
----
-
-
-
----
-
+⚡ CSE Student ⚡ | 🌱 Cyber Security & Programming Enthusiast | 💻 Developer
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://x.com/vasavi1876" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
