@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Vasavi-221/Vasavi-221/blob/main/banner.png" alt="Banner" height="200" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E1FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vasavi+👋;Full+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
 
